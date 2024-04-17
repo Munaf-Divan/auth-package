@@ -1,0 +1,17 @@
+{
+  "name": "auth-package",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "user authentication validation package",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Munaf-Divan/auth-package.git"
+  },
+  "scripts": {},
+  "author": "Munaf Divan",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
+}
